@@ -4,3 +4,7 @@ in 2005. Unlike older centralized version
 control systems such as SVN and CVS, Git is 
 distributed: every developer has the full 
 history of their code repository locally.
+
+Git handles content in snapshots, one for 
+each commit, and knows how to apply or roll 
+back the change sets between two snapshots.
